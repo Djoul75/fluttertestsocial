@@ -88,7 +88,7 @@ class _AuthenticateScreenState extends State<AuthenticateScreen> {
                           ? 'Enter an password with at least 6 characters'
                           : null,
                     ),
-                    SizedBox(
+                    const SizedBox(
                       height: 10,
                     ),
                     ElevatedButton(
